@@ -86,6 +86,6 @@ This is the main Python script that implements the coin detection and value calc
 - Adhere to the 10-second processing time limit for each image.
 
 
-An improved version was later developed that uses a support vector machine to help with classifying pennies. This code can be found at svm-improved.py.
+An improved version was later developed that uses a support vector machine to help with classifying pennies.
 
 
